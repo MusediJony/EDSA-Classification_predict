@@ -14,7 +14,9 @@ The metric that was used for this this challenge is a Macro F1_score with a pass
 
 The link above takes you to the actual competition. You can then click on the leaderboard and see my profile at position 21, Jonathan Bashala.
 
+I have built 7 classification models: Linear SVC, SVC, Random forest, AdaBoost, Decision Tree, MultinomialNB and Nearest Neighbours.
 
+I chose the the LinearSVC as the best performing model due to it giving me the highest Macro F1_score out of all the built classification. 
 
-
+It's also wise to mentioned that the F1_score obtained on the report/notebook is different to that of the F1_score score obtained on Kaggle. This is due to the fact that on the report, cross validation was needed to be conducted on the whole train data set as a guide for our predicted values.
  
