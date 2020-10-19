@@ -4,7 +4,7 @@
 
 ### The project is a competition (Hackathon challenge) held on the Kaggle Data Science community platform, 
 
-The challenge instructs the competitor to predict the sentiment of an individuals tweet based on whether they believe climate change is real or not. Companies will then use the info in their market research efforts to gauge how their services and products are received by the masses.
+The challenge instructs the competitor to predict the sentiment of an individuals tweet based on whether they believe climate change is real or not (historical tweet data). Companies will then use the info in their market research efforts to gauge how their services and products are received by the masses.
 
 https://www.kaggle.com/c/climate-change-edsa2020-21/overview
 
