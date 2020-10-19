@@ -12,7 +12,7 @@ The metric that was used for this this challenge is a Macro F1_score with a pass
 
 (Bear in mind the challenge is still on going, however, currently my Macro f1_score  = 0.75047...This score is poised to change as the current score is calculated with 80%. The final result will be based on the other 20% of the dat)
 
-The link above takes you to the actual competition. You can then click on the leaderboard and see my profile at position 21, Jonathan Bashala.
+The link above takes you to the actual competition. You can then click on the leaderboard and see my profile at position 24, Jonathan Bashala.
 
 I have built 7 classification models: Linear SVC, SVC, Random forest, AdaBoost, Decision Tree, MultinomialNB and Nearest Neighbours.
 
