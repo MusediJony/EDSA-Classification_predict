@@ -1,4 +1,4 @@
-# EDSA Classification predic.
+# EDSA Classification predict.
 
 ## This Repository is one created for the Classification project by Explore Science Data Academy.
 
