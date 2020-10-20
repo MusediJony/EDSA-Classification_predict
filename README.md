@@ -8,7 +8,7 @@ The challenge instructs the competitor to classify the sentiment of an individua
 
 https://www.kaggle.com/c/climate-change-edsa2020-21/overview
 
-The metric that was used for this this challenge is the  Macro F1_score with a passmark in relation to your score being above 0.65 (0% achieved if score is below 0.65, 50% achieved at 0.65 and 100% achieved for a score of 0.75 and above).
+The metric that was used for this this challenge is the  Macro F1_score with a passmark in relation to your score being above 0.65 (0% achieved if score is below 0.65, 50% achieved if score at 0.65 and 100% achieved for a score of 0.75 and above).
 
 (Bear in mind the challenge is still on going, however, currently my Macro f1_score  = 0.75047...This score is poised to change as the current score is calculated with 80% of the ground truth data set. The final result will be based on the other 20% of the data)
 
