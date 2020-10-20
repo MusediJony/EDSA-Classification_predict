@@ -10,12 +10,12 @@ https://www.kaggle.com/c/climate-change-edsa2020-21/overview
 
 Explanation of the class and it's respective sentiment
 
-#### Class        Description
+### Class - Description
 
-#### 2 - News:    The tweet links to factual news about climate change.
-#### 1 - Pro:     The tweet supports the belief of man-made climate change.
-#### 0 - Nuetral: The tweet neither supports nor refuse the belief of man-made clmate change.
-#### -1 - Anti:   The tweet does not believe in man-made climate change.
+### 2 - News:    The tweet links to factual news about climate change.
+### 1 - Pro:     The tweet supports the belief of man-made climate change.
+### 0 - Nuetral: The tweet neither supports nor refuse the belief of man-made clmate change.
+### -1 - Anti:   The tweet does not believe in man-made climate change.
 
 
 The metric that was used for this this challenge is the  Macro F1_score with a passmark in relation to your score being above 0.65 (0% achieved if score is below 0.65, 50% achieved if score at 0.65 and 100% achieved for a score of 0.75 and above).
