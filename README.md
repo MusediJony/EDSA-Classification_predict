@@ -26,7 +26,7 @@ It's also wise to mentioned that the F1_score obtained on the report/notebook is
 
 #### 2 : News:    The tweet links to factual news about climate change.
 #### 1 : Pro:     The tweet supports the belief of man-made climate change.
-#### 0 : Nuetral: The tweet neither supports nor refuse the belief of man-made clmate change.
+#### 0 : Nuetral: The tweet neither supports nor refutes the belief of man-made clmate change.
 #### -1 : Anti:   The tweet does not believe in man-made climate change.
 
 
