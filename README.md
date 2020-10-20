@@ -20,14 +20,14 @@ I chose the the LinearSVC as the best performing model due to it giving me the h
 
 It's also wise to mentioned that the F1_score obtained on the report/notebook is different to that of the F1_score score obtained on Kaggle. This is due to the fact that on the report, cross validation was conducted on the whole train data set as a guide for our predicted values.
 
-## Explanation of the class and it's respective sentiment
+#### Explanation of the classes and it's respective sentiment
 
-### Class - Description
+#### Class - Description
 
-### 2 : News:    The tweet links to factual news about climate change.
-### 1 : Pro:     The tweet supports the belief of man-made climate change.
-### 0 : Nuetral: The tweet neither supports nor refuse the belief of man-made clmate change.
-### -1 : Anti:   The tweet does not believe in man-made climate change.
+#### 2 : News:    The tweet links to factual news about climate change.
+#### 1 : Pro:     The tweet supports the belief of man-made climate change.
+#### 0 : Nuetral: The tweet neither supports nor refuse the belief of man-made clmate change.
+#### -1 : Anti:   The tweet does not believe in man-made climate change.
 
 
 
